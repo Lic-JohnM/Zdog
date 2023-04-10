@@ -1,0 +1,13 @@
+body {
+  background-color: #cff2f7;
+}
+  
+
+.zdog-canvas {
+  position: relative;
+   width:100vw;
+   height:100vh;
+  cursor: move;
+  display: block;
+  margin: auto;
+}
